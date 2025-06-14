@@ -33,5 +33,11 @@
     "dev": "wrangler dev",
     "start": "wrangler dev",
     "test": "vitest"
+  },
+  "dependencies": {
+    "@cloudflare/ai": "^1.2.2",
+    "@line/bot-sdk": "^10.0.0",
+    "base64-js": "^1.5.1",
+    "mustache": "^4.2.0"
   }
 }
